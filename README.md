@@ -1,6 +1,6 @@
 # itertools-cookbook (Poetry Edition)
 
-A simple project showcasing Python's `itertools` with CLI tools and example notebooks.
+A simple project showcasing Python's `itertools` with CLI tools.
 
 ## Setup
 
